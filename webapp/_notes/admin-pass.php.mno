@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_selectedCrawl" value="name:id;datatype:int,name:un;datatype:string,name:pw;datatype:string,name:demo;datatype:string" />
+	<infoitem key="UD_settings" value="name:id;datatype:int,name:batch;datatype:int,name:image_width;datatype:int,name:image_height;datatype:int,name:body_lengh;datatype:int" />
+</info>
