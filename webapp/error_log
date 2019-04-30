@@ -1,0 +1,33 @@
+[25-Apr-2019 12:45:12 America/New_York] PHP Notice:  Undefined index: id in /home/charwsap/charity-browser.org/go.php on line 35
+[25-Apr-2019 12:45:12 America/New_York] PHP Notice:  Undefined index: id in /home/charwsap/charity-browser.org/go.php on line 47
+[25-Apr-2019 12:45:42 America/New_York] PHP Notice:  Undefined index: img in /home/charwsap/charity-browser.org/piccrop.php on line 3
+[25-Apr-2019 12:45:42 America/New_York] PHP Warning:  exif_imagetype(): Filename cannot be empty in /home/charwsap/charity-browser.org/piccrop.php on line 4
+[25-Apr-2019 12:45:42 America/New_York] PHP Warning:  exif_imagetype(): Filename cannot be empty in /home/charwsap/charity-browser.org/piccrop.php on line 6
+[25-Apr-2019 12:45:42 America/New_York] PHP Warning:  exif_imagetype(): Filename cannot be empty in /home/charwsap/charity-browser.org/piccrop.php on line 8
+[25-Apr-2019 12:45:42 America/New_York] PHP Notice:  Undefined variable: img in /home/charwsap/charity-browser.org/piccrop.php on line 13
+[25-Apr-2019 12:45:42 America/New_York] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/charwsap/charity-browser.org/piccrop.php on line 13
+[25-Apr-2019 12:45:42 America/New_York] PHP Notice:  Undefined variable: img in /home/charwsap/charity-browser.org/piccrop.php on line 14
+[25-Apr-2019 12:45:42 America/New_York] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/charwsap/charity-browser.org/piccrop.php on line 14
+[25-Apr-2019 12:45:42 America/New_York] PHP Notice:  Undefined index: w in /home/charwsap/charity-browser.org/piccrop.php on line 15
+[25-Apr-2019 12:45:42 America/New_York] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/charwsap/charity-browser.org/piccrop.php on line 34
+[25-Apr-2019 12:45:42 America/New_York] PHP Notice:  Undefined variable: img in /home/charwsap/charity-browser.org/piccrop.php on line 35
+[25-Apr-2019 12:45:42 America/New_York] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, bool given in /home/charwsap/charity-browser.org/piccrop.php on line 35
+[25-Apr-2019 12:45:42 America/New_York] PHP Warning:  imagejpeg() expects parameter 1 to be resource, bool given in /home/charwsap/charity-browser.org/piccrop.php on line 39
+[25-Apr-2019 15:45:13 America/New_York] PHP Warning:  require_once(/home/charwsap/charity-browser.org/inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:13 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/charwsap/charity-browser.org/inc-main.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:15 America/New_York] PHP Warning:  require_once(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:15 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'inc-main.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:16 America/New_York] PHP Warning:  require_once(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:16 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'inc-main.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:16 America/New_York] PHP Warning:  require_once(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:16 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'inc-main.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:17 America/New_York] PHP Warning:  require_once(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:17 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'inc-main.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:18 America/New_York] PHP Warning:  require_once(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:18 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'inc-main.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:27 America/New_York] PHP Warning:  require_once(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:27 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'inc-main.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:28 America/New_York] PHP Warning:  require_once(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:45:28 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'inc-main.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:46:01 America/New_York] PHP Warning:  require_once(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/index.php on line 2
+[25-Apr-2019 15:46:01 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'inc-main.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/index.php on line 2
