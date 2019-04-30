@@ -1,0 +1,96 @@
+[25-Apr-2019 12:09:12 America/New_York] PHP Warning:  preg_match_all(): Compilation failed: invalid range in character class at offset 4 in /home/charwsap/charity-browser.org/admin/simple_html_dom.php on line 345
+[25-Apr-2019 12:09:12 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/charwsap/charity-browser.org/admin/simple_html_dom.php on line 349
+[25-Apr-2019 12:43:13 America/New_York] PHP Warning:  include(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/admin/admin-logout.php on line 1
+[25-Apr-2019 12:43:13 America/New_York] PHP Warning:  include(): Failed opening 'inc-main.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/admin/admin-logout.php on line 1
+[25-Apr-2019 12:43:46 America/New_York] PHP Warning:  include(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/admin/admin-logout.php on line 1
+[25-Apr-2019 12:43:46 America/New_York] PHP Warning:  include(): Failed opening 'inc-main.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/admin/admin-logout.php on line 1
+[25-Apr-2019 14:42:35 America/New_York] PHP Warning:  include(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[25-Apr-2019 14:42:35 America/New_York] PHP Warning:  include(): Failed opening 'inc-main.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[25-Apr-2019 14:45:43 America/New_York] PHP Warning:  include(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[25-Apr-2019 14:45:43 America/New_York] PHP Warning:  include(): Failed opening 'inc-main.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[25-Apr-2019 14:46:45 America/New_York] PHP Warning:  preg_match_all(): Compilation failed: invalid range in character class at offset 4 in /home/charwsap/charity-browser.org/user/simple_html_dom.php on line 345
+[25-Apr-2019 14:46:45 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/charwsap/charity-browser.org/user/simple_html_dom.php on line 349
+[25-Apr-2019 15:09:32 America/New_York] PHP Warning:  include(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[25-Apr-2019 15:09:32 America/New_York] PHP Warning:  include(): Failed opening 'inc-main.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[25-Apr-2019 15:10:29 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-data-new.php on line 163
+[25-Apr-2019 15:10:35 America/New_York] PHP Notice:  Undefined index: id in /home/charwsap/charity-browser.org/user/admin-data-update.php on line 105
+[25-Apr-2019 15:10:35 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-data-update.php on line 150
+[25-Apr-2019 15:10:35 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-data-update.php on line 153
+[25-Apr-2019 15:12:50 America/New_York] PHP Notice:  Undefined index: p1 in /home/charwsap/charity-browser.org/user/admin-verify.php on line 2
+[25-Apr-2019 15:13:12 America/New_York] PHP Notice:  Undefined index: img in /home/charwsap/charity-browser.org/user/piccrop.php on line 3
+[25-Apr-2019 15:13:12 America/New_York] PHP Warning:  exif_imagetype(): Filename cannot be empty in /home/charwsap/charity-browser.org/user/piccrop.php on line 4
+[25-Apr-2019 15:13:12 America/New_York] PHP Warning:  exif_imagetype(): Filename cannot be empty in /home/charwsap/charity-browser.org/user/piccrop.php on line 6
+[25-Apr-2019 15:13:12 America/New_York] PHP Warning:  exif_imagetype(): Filename cannot be empty in /home/charwsap/charity-browser.org/user/piccrop.php on line 8
+[25-Apr-2019 15:13:12 America/New_York] PHP Notice:  Undefined variable: img in /home/charwsap/charity-browser.org/user/piccrop.php on line 13
+[25-Apr-2019 15:13:12 America/New_York] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/charwsap/charity-browser.org/user/piccrop.php on line 13
+[25-Apr-2019 15:13:12 America/New_York] PHP Notice:  Undefined variable: img in /home/charwsap/charity-browser.org/user/piccrop.php on line 14
+[25-Apr-2019 15:13:12 America/New_York] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/charwsap/charity-browser.org/user/piccrop.php on line 14
+[25-Apr-2019 15:13:12 America/New_York] PHP Notice:  Undefined index: w in /home/charwsap/charity-browser.org/user/piccrop.php on line 15
+[25-Apr-2019 15:13:12 America/New_York] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/charwsap/charity-browser.org/user/piccrop.php on line 34
+[25-Apr-2019 15:13:12 America/New_York] PHP Notice:  Undefined variable: img in /home/charwsap/charity-browser.org/user/piccrop.php on line 35
+[25-Apr-2019 15:13:12 America/New_York] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, bool given in /home/charwsap/charity-browser.org/user/piccrop.php on line 35
+[25-Apr-2019 15:13:12 America/New_York] PHP Warning:  imagejpeg() expects parameter 1 to be resource, bool given in /home/charwsap/charity-browser.org/user/piccrop.php on line 39
+[25-Apr-2019 15:13:38 America/New_York] PHP Warning:  include(simple_html_dom.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/inc.crawl.php on line 6
+[25-Apr-2019 15:13:38 America/New_York] PHP Warning:  include(): Failed opening 'simple_html_dom.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/inc.crawl.php on line 6
+[25-Apr-2019 15:14:29 America/New_York] PHP Notice:  Undefined index: id in /home/charwsap/charity-browser.org/user/admin-images-update.php on line 102
+[25-Apr-2019 15:14:29 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-images-update.php on line 147
+[25-Apr-2019 15:14:29 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-images-update.php on line 150
+[25-Apr-2019 15:14:34 America/New_York] PHP Notice:  Undefined index: id in /home/charwsap/charity-browser.org/user/admin-images-update.php on line 102
+[25-Apr-2019 15:25:58 America/New_York] PHP Notice:  Undefined index: id in /home/charwsap/charity-browser.org/user/admin-images-update.php on line 102
+[25-Apr-2019 15:30:22 America/New_York] PHP Warning:  include(simple_html_dom.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-links.php on line 156
+[25-Apr-2019 15:30:22 America/New_York] PHP Warning:  include(): Failed opening 'simple_html_dom.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-links.php on line 156
+[25-Apr-2019 15:31:30 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-images-new.php on line 161
+[25-Apr-2019 15:31:48 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-images-new.php on line 161
+[25-Apr-2019 15:32:02 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-images-new.php on line 161
+[25-Apr-2019 15:32:28 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-images-new.php on line 161
+[25-Apr-2019 15:36:33 America/New_York] PHP Notice:  Undefined index: p1 in /home/charwsap/charity-browser.org/user/admin-verify.php on line 2
+[25-Apr-2019 15:36:51 America/New_York] PHP Warning:  include(simple_html_dom.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-links.php on line 156
+[25-Apr-2019 15:36:51 America/New_York] PHP Warning:  include(): Failed opening 'simple_html_dom.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-links.php on line 156
+[25-Apr-2019 15:37:38 America/New_York] PHP Warning:  include(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[25-Apr-2019 15:37:38 America/New_York] PHP Warning:  include(): Failed opening 'inc-main.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[25-Apr-2019 15:44:38 America/New_York] PHP Warning:  require_once(../inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/user-donate.php on line 2
+[25-Apr-2019 15:44:38 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../inc-main.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/user-donate.php on line 2
+[25-Apr-2019 15:44:40 America/New_York] PHP Warning:  require_once(../inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/user-data.php on line 2
+[25-Apr-2019 15:44:40 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../inc-main.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/user-data.php on line 2
+[25-Apr-2019 15:44:53 America/New_York] PHP Warning:  require_once(../inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/user-pass.php on line 2
+[25-Apr-2019 15:44:53 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../inc-main.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/user-pass.php on line 2
+[25-Apr-2019 15:47:50 America/New_York] PHP Warning:  include(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[25-Apr-2019 15:47:50 America/New_York] PHP Warning:  include(): Failed opening 'inc-main.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[25-Apr-2019 15:49:12 America/New_York] PHP Warning:  include(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[25-Apr-2019 15:49:12 America/New_York] PHP Warning:  include(): Failed opening 'inc-main.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[25-Apr-2019 15:49:57 America/New_York] PHP Warning:  include(simple_html_dom.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-links.php on line 156
+[25-Apr-2019 15:49:57 America/New_York] PHP Warning:  include(): Failed opening 'simple_html_dom.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-links.php on line 156
+[25-Apr-2019 15:49:57 America/New_York] PHP Warning:  include(simple_html_dom.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-links.php on line 156
+[25-Apr-2019 15:49:57 America/New_York] PHP Warning:  include(): Failed opening 'simple_html_dom.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-links.php on line 156
+[25-Apr-2019 15:50:17 America/New_York] PHP Notice:  Undefined index: id in /home/charwsap/charity-browser.org/user/admin-data-update.php on line 105
+[25-Apr-2019 15:50:17 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-data-update.php on line 150
+[25-Apr-2019 15:50:17 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-data-update.php on line 153
+[25-Apr-2019 15:50:35 America/New_York] PHP Notice:  Undefined index: id in /home/charwsap/charity-browser.org/user/admin-data-update.php on line 105
+[25-Apr-2019 15:50:35 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-data-update.php on line 150
+[25-Apr-2019 15:50:35 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-data-update.php on line 153
+[25-Apr-2019 15:50:51 America/New_York] PHP Notice:  Undefined index: id in /home/charwsap/charity-browser.org/user/admin-data-update.php on line 105
+[25-Apr-2019 15:50:51 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-data-update.php on line 150
+[25-Apr-2019 15:50:51 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-data-update.php on line 153
+[25-Apr-2019 15:51:01 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/admin-data-new.php on line 163
+[26-Apr-2019 00:28:39 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/user-donate.php on line 161
+[26-Apr-2019 00:28:59 America/New_York] PHP Notice:  Undefined variable: urlBase in /home/charwsap/charity-browser.org/user/user-donate.php on line 106
+[26-Apr-2019 00:29:02 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/user-donate.php on line 161
+[26-Apr-2019 00:37:36 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/user-donate.php on line 161
+[26-Apr-2019 00:37:58 America/New_York] PHP Notice:  Undefined variable: urlBase in /home/charwsap/charity-browser.org/user/user-donate.php on line 106
+[26-Apr-2019 00:39:10 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/user-donate.php on line 161
+[26-Apr-2019 00:39:15 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/user-donate.php on line 161
+[26-Apr-2019 00:39:27 America/New_York] PHP Warning:  include(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[26-Apr-2019 00:39:27 America/New_York] PHP Warning:  include(): Failed opening 'inc-main.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[26-Apr-2019 14:05:33 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/charwsap/charity-browser.org/user/user-donate.php on line 161
+[26-Apr-2019 14:05:46 America/New_York] PHP Warning:  include(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[26-Apr-2019 14:05:46 America/New_York] PHP Warning:  include(): Failed opening 'inc-main.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[27-Apr-2019 21:34:08 America/New_York] PHP Notice:  Undefined index: p1 in /home/charwsap/charity-browser.org/user/admin-verify.php on line 2
+[27-Apr-2019 21:34:08 America/New_York] PHP Notice:  Undefined index: tntcon in /home/charwsap/charity-browser.org/user/admin-verify.php on line 4
+[27-Apr-2019 21:34:13 America/New_York] PHP Warning:  include(simple_html_dom.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/inc.crawl.php on line 6
+[27-Apr-2019 21:34:13 America/New_York] PHP Warning:  include(): Failed opening 'simple_html_dom.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/inc.crawl.php on line 6
+[27-Apr-2019 21:34:13 America/New_York] PHP Warning:  include(inc.pd2text.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/inc.crawl.php on line 7
+[27-Apr-2019 21:34:13 America/New_York] PHP Warning:  include(): Failed opening 'inc.pd2text.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/inc.crawl.php on line 7
+[29-Apr-2019 16:33:27 America/New_York] PHP Warning:  include(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[29-Apr-2019 16:33:27 America/New_York] PHP Warning:  include(): Failed opening 'inc-main.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[30-Apr-2019 01:21:44 America/New_York] PHP Warning:  include(inc-main.php): failed to open stream: No such file or directory in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1
+[30-Apr-2019 01:21:44 America/New_York] PHP Warning:  include(): Failed opening 'inc-main.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/charwsap/charity-browser.org/user/admin-logout.php on line 1

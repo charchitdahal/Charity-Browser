@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_selectedCrawl" value="name:id;datatype:int,name:keyword;datatype:string,name:date;datatype:date,name:time;datatype:time,name:results;datatype:int,name:ip;datatype:string" />
+</info>
